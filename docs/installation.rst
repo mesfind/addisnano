@@ -8,7 +8,9 @@ We can install the application with pip as:
 ```
 pip install addisnano
 ```
+
 or 
+
 
 ```
 conda install -c conda-forge addisnano
