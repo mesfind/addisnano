@@ -3,7 +3,5 @@ A machine learning package for many-body potential energy representation of nobl
 
 ## installation
 ```
-cd src
-mkdir build 
-cd build
+pip install addisnano
 ```
