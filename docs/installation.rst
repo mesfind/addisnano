@@ -5,11 +5,11 @@ Addisnano is a deep tensor learing for atomistic system to the development and a
 
 We can install the application with pip as:
 
-```
+``
 pip install addisnano
-```
+``
 or 
 
-```
+``
 conda install -c conda-forge addisnano
-```
+``
