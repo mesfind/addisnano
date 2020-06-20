@@ -7,5 +7,5 @@ We can install the application with pip as::
 
     1. $ pip install addisnano
 
-     2.$ conda install -c conda-forge addisnano
+    2. $ conda install -c conda-forge addisnano
 
